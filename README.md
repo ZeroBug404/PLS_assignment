@@ -1,7 +1,7 @@
 # PLS_assignment
 
  
-## Memory Allocation in Arrays: C++ vs Python
+## Memory Allocation in Arrays: C++ vs JavaScript
 
 
 ---
